@@ -1,4 +1,4 @@
-# tictactoe
+# Tic Tac Toe
 Tic Tac Toe game with some algorithms
 
 
